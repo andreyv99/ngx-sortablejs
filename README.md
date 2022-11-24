@@ -1,6 +1,6 @@
 # ngx-sortablejs-ext
 
-This package is an Angular 12+ binding for [Sortable.js](https://github.com/RubaXa/Sortable) based on [ngx-sortablejs](https://github.com/sortablejs/ngx-sortablejs). Supports standard arrays and Angular `FormArray`.
+This package is an Angular 15+ binding for [Sortable.js](https://github.com/RubaXa/Sortable) based on [ngx-sortablejs](https://github.com/sortablejs/ngx-sortablejs). Supports standard arrays and Angular `FormArray`.
 
 Previously known as angular-sortablejs.
 
